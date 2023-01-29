@@ -1,1 +1,1 @@
-# SS-and-JavaScriptCoursera-HTML-C
+# Coursera-HTML-CSS-and-JavaScript
